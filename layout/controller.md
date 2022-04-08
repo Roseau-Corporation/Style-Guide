@@ -1,4 +1,3 @@
-# Controller
 The layout of a normal Roseau controller is as following:
 ```lua
 -- Controller Name
