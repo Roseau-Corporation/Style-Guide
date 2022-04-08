@@ -1,4 +1,4 @@
-# Roseau Style Guide
+This is the official Luau style guide for Roseau Corporation.
 
 ## Layouts
 - [Service](./layout/service.md)
