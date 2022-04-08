@@ -1,4 +1,3 @@
-# Class
 ```lua
 -- Class Name
 -- Class Description
