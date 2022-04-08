@@ -1,4 +1,3 @@
-# Module
 The layout of a normal Roseau module is as following:
 ```lua
 -- Module Name
