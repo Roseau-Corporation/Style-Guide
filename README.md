@@ -15,9 +15,9 @@ This is the official Luau style guide for Roseau Corporation.
 - [Commas](./style/commas.md)
 
 ## Toolchain
-  ### Rojo
-  - [Rojo](./toolchain/rojo.md)
+### Rojo
+- [Rojo](./toolchain/rojo.md)
 
-  ### Git
-  - [Commits](./git/commits.md)
-  - [Pull Requests](./git/pr.md)
+### Git
+- [Commits](./git/commits.md)
+- [Pull Requests](./git/pr.md)
