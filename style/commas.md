@@ -1,4 +1,3 @@
-# Commas
 If a new line does not come after a comma, place a space after the comma.
 ```lua
 local hi = {
