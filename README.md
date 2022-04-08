@@ -16,3 +16,4 @@
 
 ## Git
 - [Commits](./git/commits.md)
+- [Pull Requests](./git/pr.md)
