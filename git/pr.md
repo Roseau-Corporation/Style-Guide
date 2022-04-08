@@ -1,6 +1,6 @@
 # Pull requests
-## Update pull request
-An update pull request includes multiple features. It should look like the following:
+## Content update pull request
+An update pull request includes multiple features. It's name should be ``(update codename/name) update``. For example: ``Glacier update`` It should look like the following:
 ```md
 This pull request includes the following:
 1. First feature name
@@ -25,3 +25,9 @@ This pull request does not include the following:
 ```
 The does not include should only include planned features (to the main feature) that are going to be added with a future pull request.
 This pull request should be merging into the ``staging`` branch, and merged from the feature branch.
+
+## Merging a pull request
+When merging a pull request, the commit name should be
+```md
+Merge - Pull request name
+```
