@@ -39,4 +39,3 @@ end
 
 return RoseauService
 ```
-For the layout of a class, see [Class](../class/index.md)
