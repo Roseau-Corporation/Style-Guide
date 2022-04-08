@@ -1,4 +1,3 @@
-# Service
 The layout of a normal Roseau service is as following:
 ```lua
 -- Service Name
