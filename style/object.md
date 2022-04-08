@@ -1,4 +1,3 @@
-# Object
 ## Regular
 All elements in an object must have a comma after, unless they are the last element in the object.
 ```lua
