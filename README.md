@@ -13,3 +13,6 @@
 - [Unused Variables](./style/unused-variables.md)
 - [Semicolons](./style/semicolons.md)
 - [Commas](./style/commas.md)
+
+## Git
+- [Commits](./git/commits.md)
