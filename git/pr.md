@@ -1,4 +1,3 @@
-# Pull requests
 ## Content update pull request
 An update pull request includes multiple features. It's name should be ``(update codename/name) update``. For example: ``Glacier update`` It should look like the following:
 ```md
