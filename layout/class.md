@@ -30,3 +30,4 @@ function ClassCreator.new(Properties: Properties)
 end
 
 return ClassCreator
+```
